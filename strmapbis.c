@@ -1,7 +1,4 @@
-// cs270 proj0
-// Written by Anthony Arnold
 // Used djb2 hash function from http://www.cse.yorku.ca/~oz/hash.html
-// Collaborated with Dayne Freudenberg and Charles Oakes
 
 #include "strmapbis.h"
 
